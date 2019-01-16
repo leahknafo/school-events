@@ -4,3 +4,8 @@ export interface SchoolModel {
     duration: number;
     classes: number[];
 }
+
+// export interface MenuModel {
+//     name: string;
+// }
+
