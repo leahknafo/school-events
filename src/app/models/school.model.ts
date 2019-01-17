@@ -5,7 +5,5 @@ export interface SchoolModel {
     classes: number[];
 }
 
-// export interface MenuModel {
-//     name: string;
-// }
+
 

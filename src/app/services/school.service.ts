@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
 import { SchoolModel } from '../models/school.model';
-// import { MenuModel } from '../models/school.model';
+
 
 @Injectable({
   providedIn: 'root'
@@ -37,23 +37,3 @@ export class SchoolService {
   }
 }
 
-// export class MenuService {
-
-//   constructor() {
-//    }
-
-
-//   get(): MenuModel[] {
-//     return [
-//       {
-//         name: "Home"
-//       }, {
-//         name: "About"
-//       }, {
-//         name: "Contact"
-//       }, {
-//         name: "Gallery"
-//       }
-//     ];
-//   }
-// }
